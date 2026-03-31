@@ -1,0 +1,9 @@
+Project Proposal                       Emre Bayraktar 33865
+
+This project aims to analyze the relationship between daily screen time and sleep duration. The main objective is to investigate whether increased screen exposure negatively affects sleep patterns.
+
+The data will be collected personally using daily observations. Screen time data will be obtained from phone usage statistics, while sleep duration will be recorded manually each day. Additional variables such as time of last phone use and perceived sleep quality may also be included to enrich the dataset.
+
+The dataset is expected to include approximately 30–50 daily observations. The analysis will involve exploratory data analysis and visualization techniques to identify patterns and relationships between variables. If possible, basic machine learning methods will be applied to predict sleep duration based on screen time and related factors.
+
+This project aims to provide insights into how digital habits influence sleep behavior and overall well-being.
